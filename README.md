@@ -17,12 +17,7 @@ All Challenges are provided by IBM Quantum and to be completed with Qiskit.
 
 There are multiple challenge tracks, but it is up to you and your teammates to work on one or multiples to present a project in alignment with the judging criteria.
 
-The convergence of quantum science and global sustainability efforts is unlocking a new horizon of possibility. Quantum computing provides a transformative toolkit to achieve the ambitious vision of the UN's Sustainable Development Goals, offering powerful new approaches to problems in simulation, optimization, and foundational computation itself. [1]
-
-This Q3 USC hackathon, supported by IBM, is structured as a direct inquiry into quantum's potential, presenting a series of challenges across critical domains:
-- Reversible computing: Probing the principles of reversible computing to address the fundamental energy cost of information processing
-- Complex optimization problem: Untangling intractable logistical and energy-grid puzzles
-- Natural Simulations: Modeling the very building blocks of nature to accelerate the discovery of new medicines and materials.
+This QEE hackathon is part of IBM Quantum's Qiskit Fall Fest this year, it is our pleasure to work alongside many other universities around the world in an effort to enhance quantum computing education and strengthen the quantum ecosystem in LA. [Check out Qiskit Fall Fest's page for more details, if you are interested!](https://www.ibm.com/quantum/events/fall-fest-2026)
 
 Your goal is to engage with one of these core challenges. Beyond simply implementing an algorithm, you are challenged to consider the deeper questions of real-world application and the broader social context of your work.
 
@@ -114,5 +109,5 @@ Congratulations to all winners and thank you everyone who competed!
 
 ## Feedback
 
-Your opinions matter and we take them seriously to improve QEE events! Please complete the end-of-event survery to tell us your experience at Q^3 Qompute 2025 and if you would like to attennd more events like this in the future. [Click here to complete the survey!](https://usc.qualtrics.com/jfe/form/SV_5j6vOhTj1c55KyG)
+Your opinions matter and we take them seriously to improve QEE events! Please complete the end-of-event survery to tell us your experience about Qompute 2026 and if you would like to attennd more events like this in the future. **Survey will be added closer to the event.**
 
