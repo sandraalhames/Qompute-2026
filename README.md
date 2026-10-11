@@ -101,8 +101,10 @@ Choose a molecule (or a simplified model of one) connected to a real-world probl
 
 #### Starter resources
 
-- SQD from scratch lab (notebooks 1–3): `01_sample_then_diagonalize`, `02_molecules_as_bitstrings`, `03_the_full_sqd_pipeline`
-- Ground-State Energy of a Molecule with VQE — B. Tirado, BasQ Qiskit Fall Fest 2026 (CC BY 4.0)
+All Track 1 files are in the [`Track 1`](Track%201) folder.
+
+- SQD from scratch lab (notebooks 1–3): [`01_sample_then_diagonalize.ipynb`](Track%201/01_sample_then_diagonalize.ipynb), [`02_molecules_as_bitstrings.ipynb`](Track%201/02_molecules_as_bitstrings.ipynb), [`03_the_full_sqd_pipeline.ipynb`](Track%201/03_the_full_sqd_pipeline.ipynb)
+- Ground-State Energy of a Molecule with VQE — [`challenge_1_tutorial_VQE.ipynb`](Track%201/challenge_1_tutorial_VQE.ipynb), B. Tirado, BasQ Qiskit Fall Fest 2026 (CC BY 4.0)
 
 ---
 
@@ -141,7 +143,9 @@ Choose a real-world resource-allocation or decision problem with at least one co
 
 #### Starter resources
 
-- Combinatorial Optimization with QAOA: Max-Cut — `challenge_2_tutorial.ipynb`, B. Tirado, BasQ Qiskit Fall Fest 2026 (CC BY 4.0)
+All Track 2 files are in the [`Track 2`](Track%202) folder.
+
+- Combinatorial Optimization with QAOA: Max-Cut — [`Track2_challenge_2_tutorial.ipynb`](Track%202/Track2_challenge_2_tutorial.ipynb), B. Tirado, BasQ Qiskit Fall Fest 2026 (CC BY 4.0)
 - [Quantum approximate optimization algorithm (IBM tutorial)](https://quantum.cloud.ibm.com/docs/tutorials/quantum-approximate-optimization-algorithm) — end-to-end QAOA in Qiskit
 - [Portfolio optimization tutorial (Qiskit Finance)](https://qiskit-community.github.io/qiskit-finance/tutorials/01_portfolio_optimization.html) — a budget-constrained selection problem
 - [Converters for quadratic programs (Qiskit Optimization)](https://qiskit-community.github.io/qiskit-optimization/tutorials/02_converters_for_quadratic_programs.html) — turning constraints into penalty terms
@@ -185,9 +189,11 @@ Choose a small quantum experiment, show how noise or hardware layout degrades it
 
 #### Starter resources
 
-- Geometry-aware quantum cloud challenge — `Qiskit_Fall_Fest_Challenge_Hyperbolic_Futures_-_quanTA_USask.pdf`, S. Rayan, quanTA, University of Saskatchewan (Bell-pair architecture comparison)
-- Simulating Quantum Dynamics: The Transverse-Field Ising Model — `challenge_3_tutorial.ipynb`, B. Tirado, BasQ Qiskit Fall Fest 2026 (CC BY 4.0)
-- Gamifying Error Detection, Mitigation and Correction — `McgillQFF_2026.pptx`, W. Sun, McGill University
+All Track 3 files are in the [`Track 3`](Track%203) folder.
+
+- Geometry-aware quantum cloud challenge — [`Qiskit Fall Fest Challenge Hyperbolic Futures - quanTA USask.pdf`](Track%203/Qiskit%20Fall%20Fest%20Challenge%20Hyperbolic%20Futures%20-%20quanTA%20USask.pdf), S. Rayan, quanTA, University of Saskatchewan (Bell-pair architecture comparison)
+- Simulating Quantum Dynamics: The Transverse-Field Ising Model — [`challenge_3_tutorial.ipynb`](Track%203/challenge_3_tutorial.ipynb), B. Tirado, BasQ Qiskit Fall Fest 2026 (CC BY 4.0)
+- Gamifying Error Detection, Mitigation and Correction — [`McgillQFF 2026  -  Read-Only.pptx`](Track%203/McgillQFF%202026%20%20-%20%20Read-Only.pptx), W. Sun, McGill University
 - [Error mitigation and suppression techniques (IBM guide)](https://quantum.cloud.ibm.com/docs/guides/error-mitigation-and-suppression-techniques)
 - [Combine error mitigation options with the Estimator primitive (IBM tutorial)](https://quantum.cloud.ibm.com/docs/tutorials/combine-error-mitigation-techniques)
 - [Transpile with pass managers (IBM guide)](https://quantum.cloud.ibm.com/docs/guides/transpile-with-pass-managers) — layouts, routing, and SWAP overhead
