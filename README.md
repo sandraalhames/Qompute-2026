@@ -201,8 +201,8 @@ Choose a small quantum experiment, show how noise or hardware layout degrades it
    - Did you consider the potential harms, limitations, or inequities of this technology?
    - Does your project make a clear and honest case for its positive impact?
 3. **Presentation - 20%:** Comprehension, aesthetics, and delivery style. A good idea that cannot be shared cannot make an impact.
-4. **Originality - 15%:** Creativity and problem solving. Is the project well researched, and did you go beyond the starter notebooks?
-5. **Submitting correct and clean files and attendance/communication - 10%:**
+4. **Originality - 20%:** Creativity and problem solving. Is the project well researched, and did you go beyond the starter notebooks?
+5. **Submitting correct and clean files and attendance/communication - 5%:**
    - Easy to follow and clean formatting on GitHub
    - Sources and references are included
    - *For in-person attendees only:* You are responsible for your attendance; if someone from your team cannot come they should communicate with the organizers AND teammates
