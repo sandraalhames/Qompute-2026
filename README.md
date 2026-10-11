@@ -15,11 +15,27 @@ All Challenges are provided by IBM Quantum and to be completed with Qiskit.
 
 ## **Overview**
 
-There are multiple challenge tracks, but it is up to you and your teammates to work on one or multiples to present a project in alignment with the judging criteria.
+There are multiple challenge tracks, and it is up to you and your teammates to work on one or multiple challenges. Your goal is to present a project that responds to the challenge and aligns with the judging criteria listed below.
 
-This QEE hackathon is part of IBM Quantum's Qiskit Fall Fest this year, it is our pleasure to work alongside many other universities around the world in an effort to enhance quantum computing education and strengthen the quantum ecosystem in LA. [Check out Qiskit Fall Fest's page for more details, if you are interested!](https://www.ibm.com/quantum/events/fall-fest-2026)
+This QEE hackathon is part of IBM Quantum's Qiskit Fall Fest this year, it is our pleasure to work alongside many other universities around the world in an effort to enhance quantum computing education and strengthen the quantum ecosystem in LA. Check out Qiskit Fall Fest's page for more details, if you are interested!
 
-Your goal is to engage with one of these core challenges. Beyond simply implementing an algorithm, you are challenged to consider the deeper questions of real-world application and the broader social context of your work.
+A Decade of Quantum in the Cloud
+
+In May 2016, IBM made a five-qubit quantum processor available through the cloud, giving people outside specialized research laboratories the opportunity to program real quantum hardware from a browser. Ten years later, quantum processors contain far more qubits, operations have become more reliable, and increasingly sophisticated software allows researchers to run larger and more complex experiments than was possible on that first device.
+
+One of the most promising applications is the simulation of quantum systems, including molecules, materials, and many-body physics. These problems are especially well suited to quantum computing because nature and quantum computers obey the same quantum-mechanical rules. A quantum computer can therefore represent certain states and interactions more directly than a classical computer can. This does not make these problems easy, but it offers a compelling path toward studying phenomena that become extraordinarily difficult to model as their complexity grows.
+
+Today's quantum computers remain noisy, limited in the size and duration of the calculations they can perform, and expensive to build and operate. Most current results are still research experiments rather than solutions to large, practical problems. However, cloud access has opened the field to many more people! [1]
+The gap between quantum computing's potential and its present-day reality is where this hackathon begins. This year's theme is A Decade of Quantum in the Cloud: Who Does It Serve? Each track asks you to use Qiskit to explore a real-world problem and to think critically about the people, communities, and systems your work could affect. You are not expected to solve quantum computing in a single hackathon. Instead, we invite you to experiment boldly, question assumptions, and imagine how this technology might develop and who should benefit when it does.
+
+Track 1 — Molecules for a Livable Planet: Use quantum simulation to investigate a molecule or simplified chemical process related to food, clean energy, or sustainable materials.
+
+Track 2 — Optimizing for People: Formulate a problem involving scarce resources, scheduling, or logistics as a quantum optimization task. Examine who defines the objective, which constraints matter, and who might be left out.
+
+Track 3 — Can We Trust a Noisy Quantum Computer? Design experiments that measure noise, compare hardware or error-handling methods, and determine what evidence is needed before a quantum result should be trusted.
+
+[!NOTE] All quantum components must be built and run with Qiskit (circuits, transpilation, primitives, and Qiskit add-ons). Classical helper libraries such as PySCF, NumPy, and SciPy are allowed for the classical parts of your workflow. Running on real IBM hardware is welcome but not required, a well-analyzed simulator project can win. Keep in mind that all USC students get 10 minutes of free computing time on IBM hardware so you can choose to take advantage of that!
+
 
 ## **How to Start Qomputing**
 
@@ -46,7 +62,7 @@ You can find [detailed instructions](https://docs.qbraid.com/lab/user-guide/gett
 
 > [!IMPORTANT]
 Submission Due: 11:59PM PST, 14th Oct (Wednesday)</br>
-Link will expires after due, please turn in your project on time.
+Link will expires after due, please turn in your project on time [using this link](https://docs.google.com/forms/d/e/1FAIpQLSfafnjAv0nPT38lwS_pa4oWEN3R26bjPpya_I5AeTX5MIz09A/viewform?usp=dialog)
 
 ## Judging Criteria
 
