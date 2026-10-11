@@ -247,28 +247,28 @@ Congratulations to all winners and thank you everyone who competed!
 
 <h2> 🥇 1st Place </h2>
 
-**T-Bosons**
+**Coming Soon**
 - [Repo Link]()
 - Members:
   - 
 
 <h2>🥈 2nd Place </h2>
 
-**Schrödinger's Cat Ate my Homework**
+**Coming Soon**
 - [Repo Link]()
 - Members:
   - 
 
 <h2>🥉 3rd Place </h2>
 
-**Superposition Squad**
+**Coming Soon**
 - [Repo Link]()
 - Members:
   - 
  
  <h2>🏅 4th Place </h2>
 
-**Team Qubit**
+**Coming Soon**
 - [Repo Link]()
 - Members:
   - 
