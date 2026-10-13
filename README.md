@@ -237,7 +237,7 @@ All Track 3 files are in the [`Track 3`](Track%203) folder.
 
 ## **Submission Details and Challenges**
 
-The final submission for this hackathon is a 5-10 minute video presentation in any chosen format and your team's GitHub Repository. A Google Form for submission will be linked soon. Only ONE team member has to submit, please do not duplicate submissions!
+The final submission for this hackathon is a 5-10 minute video presentation in any chosen format and your team's GitHub Repository. A Google Form for submission [can be found by clicking here](https://docs.google.com/forms/d/e/1FAIpQLSffK6jWlW7L8uXGhQ_336lzX1qnckdqiC-M593KWLag3hKDBw/viewform?usp=dialog). Only ONE team member has to submit, please do not duplicate submissions!
 
 ---
 
