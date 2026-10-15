@@ -211,7 +211,7 @@ All Track 3 files are in the [`Track 3`](Track%203) folder.
 5. **Submitting correct and clean files and attendance/communication - 5%:**
    - Easy to follow and clean formatting on GitHub
    - Sources and references are included
-   - *For in-person attendees only:* You are responsible for your attendance; if someone from your team cannot come they should communicate with the organizers AND teammates
+   - *For all attendees:* You are responsible for your attendance; if someone from your team cannot come they should communicate with the organizers AND teammates. Teams who do not attend the conference on 10/18 without communication will be disqualified. 
 
 ## References
 
