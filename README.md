@@ -62,7 +62,7 @@ You can find [detailed instructions](https://docs.qbraid.com/lab/user-guide/gett
 
 > [!IMPORTANT]
 Submission Due: 11:59PM PST, 14th Oct (Wednesday)</br>
-Link will expires after due, please turn in your project on time [using this link](https://docs.google.com/forms/d/e/1FAIpQLSfafnjAv0nPT38lwS_pa4oWEN3R26bjPpya_I5AeTX5MIz09A/viewform?usp=dialog)
+Link will expires after due, please turn in your project on time [using this link](https://docs.google.com/forms/d/e/1FAIpQLSffK6jWlW7L8uXGhQ_336lzX1qnckdqiC-M593KWLag3hKDBw/viewform?usp=dialog)
 
 ## Challenge Tracks
 
